@@ -1,0 +1,483 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-09T02:14:33Z",
+  "title": "Design System: D+Dents Odontologia e Estética (Jardim Zaira)",
+  "extensions": {
+    "colorMeta": {
+      "forest-bar": {
+        "role": "primary",
+        "displayName": "Forest Bar",
+        "canonical": "#1e3a2f",
+        "oklch": "oklch(32.2% 0.040 167)",
+        "dark": "#12261c",
+        "tonalRamp": [
+          "#001008",
+          "#0b281d",
+          "#254136",
+          "#405d50",
+          "#5c796d",
+          "#79978a",
+          "#a6c6b8",
+          "#d6f8e9"
+        ]
+      },
+      "forest-bar-deep": {
+        "role": "primary",
+        "displayName": "Forest Bar Deep",
+        "canonical": "#142a21",
+        "dark": "#0c1b14",
+        "tonalRamp": [
+          "#010f07",
+          "#0a1e15",
+          "#142a21",
+          "#2d4a3c",
+          "#4a6a5b",
+          "#6f8d7e",
+          "#a2bcae",
+          "#dbece2"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Logo Gold",
+        "canonical": "#c9a84c",
+        "oklch": "oklch(74.3% 0.117 90)",
+        "tonalRamp": [
+          "#1f1706",
+          "#3a2c0a",
+          "#574210",
+          "#755a18",
+          "#947424",
+          "#b38f33",
+          "#dbbc63",
+          "#f6ebc6"
+        ]
+      },
+      "gold-hover": {
+        "role": "secondary",
+        "displayName": "Gold Lift",
+        "canonical": "#d8bc68",
+        "tonalRamp": [
+          "#201808",
+          "#3c2e0c",
+          "#594512",
+          "#77601c",
+          "#967b2c",
+          "#b8993f",
+          "#e6cf8c",
+          "#f8efd1"
+        ]
+      },
+      "star-gold": {
+        "role": "secondary",
+        "displayName": "Star Gold",
+        "canonical": "#8f6f1b",
+        "dark": "#d8bc68",
+        "tonalRamp": [
+          "#1d1405",
+          "#352608",
+          "#4d390c",
+          "#664d12",
+          "#8f6f1b",
+          "#b38f33",
+          "#d8bc68",
+          "#f1e5b6"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#f5f8f5",
+        "oklch": "oklch(97.6% 0.005 146)",
+        "dark": "#0b1510",
+        "tonalRamp": [
+          "#0a0c0a",
+          "#202220",
+          "#393b39",
+          "#545654",
+          "#707270",
+          "#8d908d",
+          "#bcbfbc",
+          "#ecefec"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "canonical": "#ffffff",
+        "dark": "#111f18",
+        "tonalRamp": [
+          "#111f18",
+          "#243a2e",
+          "#41564a",
+          "#6b7f73",
+          "#94a79b",
+          "#bccabf",
+          "#dbe5de",
+          "#ffffff"
+        ]
+      },
+      "surface-sage": {
+        "role": "neutral",
+        "displayName": "Sage Wash",
+        "canonical": "#e9f0ea",
+        "dark": "#162a20",
+        "tonalRamp": [
+          "#162a20",
+          "#243a2e",
+          "#41564a",
+          "#6b7f73",
+          "#94a79b",
+          "#bccabf",
+          "#d3ddd6",
+          "#e9f0ea"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#102219",
+        "oklch": "oklch(23.3% 0.030 161)",
+        "dark": "#e8f0ea",
+        "tonalRamp": [
+          "#010f07",
+          "#14261d",
+          "#2d4035",
+          "#475b50",
+          "#63776c",
+          "#809589",
+          "#aec4b8",
+          "#def5e8"
+        ]
+      },
+      "ink-muted": {
+        "role": "neutral",
+        "displayName": "Ink Muted",
+        "canonical": "#41564a",
+        "dark": "#a8bbaf",
+        "tonalRamp": [
+          "#102219",
+          "#243a2e",
+          "#41564a",
+          "#5c7367",
+          "#7c9186",
+          "#9eafa5",
+          "#c3cfc8",
+          "#e6ece8"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#d3ddd6",
+        "dark": "#243a2e",
+        "tonalRamp": [
+          "#102219",
+          "#243a2e",
+          "#41564a",
+          "#6b7f73",
+          "#94a79b",
+          "#b4c2b9",
+          "#d3ddd6",
+          "#eef3ef"
+        ]
+      },
+      "bar-ink": {
+        "role": "neutral",
+        "displayName": "Bar Ink",
+        "canonical": "#f2f6f2",
+        "tonalRamp": [
+          "#102219",
+          "#243a2e",
+          "#41564a",
+          "#6b7f73",
+          "#a2b3a8",
+          "#c9d6cd",
+          "#e2eae4",
+          "#f2f6f2"
+        ]
+      },
+      "bar-ink-muted": {
+        "role": "neutral",
+        "displayName": "Bar Ink Muted",
+        "canonical": "#b9cabf",
+        "tonalRamp": [
+          "#102219",
+          "#243a2e",
+          "#41564a",
+          "#5f7568",
+          "#809589",
+          "#9bafa3",
+          "#b9cabf",
+          "#e0e9e3"
+        ]
+      },
+      "on-gold": {
+        "role": "neutral",
+        "displayName": "On Gold",
+        "canonical": "#142a21",
+        "tonalRamp": [
+          "#010f07",
+          "#0a1e15",
+          "#142a21",
+          "#2d4a3c",
+          "#4a6a5b",
+          "#6f8d7e",
+          "#a2bcae",
+          "#dbece2"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The single H1 in the hero. Bricolage Grotesque 700, tight tracking, balanced wrap."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "H2 of every section. Bricolage Grotesque 600."
+      },
+      "quote": {
+        "displayName": "Featured Quote",
+        "purpose": "The one large patient quote. Bricolage Grotesque 500."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Treatment group titles over a 1.5px ink rule; step titles are 1.3125rem."
+      },
+      "item-title": {
+        "displayName": "Item Title",
+        "purpose": "Treatment names."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Hero sentence and section intros, muted, 38ch to 56ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Paragraphs in Hanken Grotesk 400."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Buttons and links, Hanken Grotesk 600, sentence case."
+      }
+    },
+    "shadows": [
+      {
+        "name": "photo-lift",
+        "value": "0 1px 2px rgb(16 34 25 / 0.06), 0 14px 34px -16px rgb(16 34 25 / 0.28)",
+        "purpose": "Hero photo, carousel images and map. Dark theme: 0 1px 2px rgb(0 0 0 / 0.4), 0 18px 40px -16px rgb(0 0 0 / 0.6)."
+      },
+      {
+        "name": "gold-seat",
+        "value": "inset 0 0 0 1px rgb(20 42 33 / 0.22), 0 8px 18px -10px rgb(20 42 33 / 0.55)",
+        "purpose": "Gold button at rest; hover deepens the drop to 0 14px 24px -12px rgb(20 42 33 / 0.6)."
+      },
+      {
+        "name": "header-stuck",
+        "value": "0 10px 30px -14px rgb(0 0 0 / 0.55)",
+        "purpose": "Header, only after scrolling past the top sentinel (plus a 12% white bottom border)."
+      },
+      {
+        "name": "float-lift",
+        "value": "inset 0 0 0 1px rgb(20 42 33 / 0.25), 0 14px 28px -10px rgb(0 0 0 / 0.55)",
+        "purpose": "Floating WhatsApp button."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "The only easing curve; used for every transition and animation."
+      },
+      {
+        "name": "hero-rise",
+        "value": "0.9s, translateY(18px) to 0, delays 0.05s / 0.18s / 0.3s",
+        "purpose": "Hero copy children, one orchestrated entrance."
+      },
+      {
+        "name": "hero-photo-reveal",
+        "value": "1.2s clip-path inset(0 0 0 14%) to inset(0); image settles scale(1.06) to 1 over 1.6s",
+        "purpose": "Hero storefront photo."
+      },
+      {
+        "name": "scroll-reveal",
+        "value": "opacity 0.8s, transform 0.9s, translateY(20px) to 0, delay via --d (110ms steps)",
+        "purpose": "Section content as it enters the viewport; JS-gated with a 4s safety reveal."
+      },
+      {
+        "name": "press",
+        "value": "hover translateY(-1px) over 0.25s; active translateY(1px) scale(0.985)",
+        "purpose": "Buttons."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animations and transitions 0.01ms; smooth scroll off",
+        "purpose": "Everything above runs only under prefers-reduced-motion: no-preference."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "xs (Tailwind extension)",
+        "value": "420px"
+      },
+      {
+        "name": "steps-and-footer",
+        "value": "900px"
+      },
+      {
+        "name": "desktop",
+        "value": "1024px"
+      },
+      {
+        "name": "container",
+        "value": "1280px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Gold Button",
+      "kind": "button",
+      "refersTo": "button-gold",
+      "description": "The one primary action: schedule an evaluation on WhatsApp. Same label everywhere.",
+      "html": "<a class=\"ds-btn-gold\" href=\"#\"><svg viewBox=\"0 0 256 256\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M128 24a104 104 0 0 0-89.6 156.8L24 232l52.5-13.8A104 104 0 1 0 128 24Zm0 192a88 88 0 0 1-45-12.3l-3.2-1.9-31.1 8.2 8.3-30.3-2.1-3.3A88 88 0 1 1 128 216Z\"/></svg>Agendar avaliação</a>",
+      "css": ".ds-btn-gold{font-family:'Hanken Grotesk',system-ui,sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:.6rem;min-height:48px;padding:.75rem 1.5rem;border-radius:999px;background:#c9a84c;color:#142a21;font-weight:600;font-size:1rem;line-height:1;text-decoration:none;white-space:nowrap;cursor:pointer;box-shadow:inset 0 0 0 1px rgb(20 42 33 / .22),0 8px 18px -10px rgb(20 42 33 / .55);transition:transform .25s cubic-bezier(.16,1,.3,1),background-color .2s,box-shadow .25s cubic-bezier(.16,1,.3,1)}.ds-btn-gold:hover{background:#d8bc68;transform:translateY(-1px);box-shadow:inset 0 0 0 1px rgb(20 42 33 / .22),0 14px 24px -12px rgb(20 42 33 / .6)}.ds-btn-gold:active{transform:translateY(1px) scale(.985)}.ds-btn-gold:focus-visible{outline:3px solid #1e3a2f;outline-offset:3px}"
+    },
+    {
+      "name": "Line Button",
+      "kind": "button",
+      "refersTo": "button-line",
+      "description": "Quiet secondary action, ringed pill with no fill; used once for the Google reviews link.",
+      "html": "<a class=\"ds-btn-line\" href=\"#\">Ver as 391 avaliações no Google</a>",
+      "css": ".ds-btn-line{font-family:'Hanken Grotesk',system-ui,sans-serif;display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:.75rem 1.5rem;border-radius:999px;background:transparent;color:#102219;font-weight:600;font-size:1rem;line-height:1;text-decoration:none;white-space:nowrap;cursor:pointer;box-shadow:inset 0 0 0 1.5px #41564a;transition:background-color .2s,box-shadow .2s}.ds-btn-line:hover{background:#e9f0ea;box-shadow:inset 0 0 0 1.5px #102219}.ds-btn-line:focus-visible{outline:3px solid #1e3a2f;outline-offset:3px}"
+    },
+    {
+      "name": "Underlined Link",
+      "kind": "custom",
+      "refersTo": "button-line",
+      "description": "Inline action link with a gold underline; the gap to its arrow widens on hover.",
+      "html": "<a class=\"ds-link\" href=\"#\">Ver tratamentos <svg viewBox=\"0 0 256 256\" width=\"18\" height=\"18\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M205.7 154.3a8 8 0 0 1 0 11.4l-72 72a8 8 0 0 1-11.4 0l-72-72a8 8 0 0 1 11.4-11.4L120 212.7V32a8 8 0 0 1 16 0v180.7l58.3-58.4a8 8 0 0 1 11.4 0Z\"/></svg></a>",
+      "css": ".ds-link{font-family:'Hanken Grotesk',system-ui,sans-serif;display:inline-flex;align-items:center;gap:.4rem;min-height:44px;color:#102219;font-weight:600;text-decoration:underline;text-underline-offset:.3em;text-decoration-thickness:1.5px;text-decoration-color:#c9a84c;transition:text-decoration-color .2s,gap .25s cubic-bezier(.16,1,.3,1)}.ds-link:hover{text-decoration-color:currentColor;gap:.65rem}.ds-link:focus-visible{outline:3px solid #1e3a2f;outline-offset:3px;border-radius:6px}"
+    },
+    {
+      "name": "Site Header",
+      "kind": "nav",
+      "refersTo": "site-header",
+      "description": "Sticky forest bar: logo left, four anchors with a gold hover underline, gold CTA.",
+      "html": "<header class=\"ds-header\"><span class=\"ds-logo\">D+Dents</span><nav class=\"ds-nav\"><a class=\"ds-nav-link\" href=\"#\">Tratamentos</a><a class=\"ds-nav-link\" href=\"#\">Resultados</a><a class=\"ds-nav-link\" href=\"#\">Avaliações</a><a class=\"ds-nav-link\" href=\"#\">Como chegar</a></nav><a class=\"ds-header-cta\" href=\"#\">Agendar avaliação</a></header>",
+      "css": ".ds-header{font-family:'Hanken Grotesk',system-ui,sans-serif;display:flex;align-items:center;justify-content:space-between;gap:1.5rem;height:76px;padding:0 2rem;background:#1e3a2f;color:#f2f6f2}.ds-logo{font-family:'Bricolage Grotesque','Hanken Grotesk',sans-serif;font-weight:700;font-size:1.4rem;letter-spacing:-.02em}.ds-nav{display:flex;gap:2rem}.ds-nav-link{position:relative;display:inline-flex;align-items:center;min-height:44px;color:#b9cabf;font-weight:500;text-decoration:none;transition:color .2s}.ds-nav-link::after{content:'';position:absolute;left:0;right:0;bottom:8px;height:1.5px;background:#c9a84c;transform:scaleX(0);transform-origin:left;transition:transform .35s cubic-bezier(.16,1,.3,1)}.ds-nav-link:hover{color:#f2f6f2}.ds-nav-link:hover::after{transform:scaleX(1)}.ds-nav-link:focus-visible{outline:3px solid #c9a84c;outline-offset:3px;border-radius:6px}.ds-header-cta{display:inline-flex;align-items:center;min-height:48px;padding:.75rem 1.5rem;border-radius:999px;background:#c9a84c;color:#142a21;font-weight:600;text-decoration:none;transition:background-color .2s}.ds-header-cta:hover{background:#d8bc68}.ds-header-cta:focus-visible{outline:3px solid #c9a84c;outline-offset:3px}"
+    },
+    {
+      "name": "Rating Strip",
+      "kind": "custom",
+      "refersTo": "rating-strip",
+      "description": "The verification moment under the hero: 5,0, stars, review count, quiet link.",
+      "html": "<div class=\"ds-rating\"><p class=\"ds-rating-main\"><span class=\"ds-rating-num\">5,0</span><span class=\"ds-stars\" role=\"img\" aria-label=\"5 de 5 estrelas\">&#9733;&#9733;&#9733;&#9733;&#9733;</span><span>391 avaliações no Google</span></p><a class=\"ds-rating-link\" href=\"#\">Ler as avaliações</a></div>",
+      "css": ".ds-rating{font-family:'Hanken Grotesk',system-ui,sans-serif;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.25rem 2rem;padding:.75rem 2rem;background:#fff;color:#102219;border-block:1px solid #d3ddd6}.ds-rating-main{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .9rem;margin:0}.ds-rating-num{font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:1.75rem;letter-spacing:-.02em;font-variant-numeric:tabular-nums}.ds-stars{color:#8f6f1b;font-size:1.15rem;letter-spacing:2px}.ds-rating-link{min-height:44px;display:inline-flex;align-items:center;font-weight:600;color:#102219;text-decoration:underline;text-underline-offset:.3em;text-decoration-thickness:1.5px;text-decoration-color:#c9a84c}.ds-rating-link:hover{text-decoration-color:currentColor}.ds-rating-link:focus-visible{outline:3px solid #1e3a2f;outline-offset:3px;border-radius:6px}"
+    },
+    {
+      "name": "Treatment Group",
+      "kind": "custom",
+      "refersTo": "photo-frame",
+      "description": "A ruled list of treatment names and short descriptions; no cards, no icons.",
+      "html": "<div class=\"ds-treat\"><h3 class=\"ds-group-title\">Saúde bucal</h3><ul class=\"ds-treat-list\"><li><p class=\"ds-t-name\">Limpeza e prevenção</p><p class=\"ds-t-desc\">Remoção de tártaro e manchas para manter dentes e gengivas saudáveis.</p></li><li><p class=\"ds-t-name\">Restaurações</p><p class=\"ds-t-desc\">Recuperação de dentes com cárie ou desgaste.</p></li></ul></div>",
+      "css": ".ds-treat{font-family:'Hanken Grotesk',system-ui,sans-serif;color:#102219;max-width:32rem}.ds-group-title{font-family:'Bricolage Grotesque',sans-serif;font-size:1.5rem;font-weight:600;letter-spacing:-.015em;margin:0 0 1.75rem;padding-bottom:1rem;border-bottom:1.5px solid #102219}.ds-treat-list{list-style:none;margin:0;padding:0;display:grid;gap:1.75rem}.ds-t-name{font-family:'Bricolage Grotesque',sans-serif;font-size:1.25rem;font-weight:600;line-height:1.3;letter-spacing:-.01em;margin:0}.ds-t-desc{color:#41564a;font-size:1rem;line-height:1.55;margin:.2rem 0 0;max-width:44ch}"
+    },
+    {
+      "name": "Round Icon Button",
+      "kind": "button",
+      "refersTo": "button-round",
+      "description": "48px circle for carousel previous/next; fills forest green on hover, dims when disabled.",
+      "html": "<button class=\"ds-round\" type=\"button\" aria-label=\"Próxima imagem\"><svg viewBox=\"0 0 256 256\" width=\"20\" height=\"20\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M221.7 133.7l-72 72a8 8 0 0 1-11.4-11.4L196.7 136H40a8 8 0 0 1 0-16h156.7l-58.4-58.3a8 8 0 0 1 11.4-11.4l72 72a8 8 0 0 1 0 11.4Z\"/></svg></button>",
+      "css": ".ds-round{display:inline-grid;place-items:center;width:48px;height:48px;border-radius:999px;background:#fff;color:#102219;border:1.5px solid #d3ddd6;cursor:pointer;transition:background-color .2s,border-color .2s,transform .25s cubic-bezier(.16,1,.3,1),opacity .2s}.ds-round:hover{background:#1e3a2f;color:#f2f6f2;border-color:#1e3a2f}.ds-round:active{transform:scale(.94)}.ds-round:focus-visible{outline:3px solid #1e3a2f;outline-offset:3px}"
+    },
+    {
+      "name": "Patient Quote",
+      "kind": "card",
+      "refersTo": "rating-strip",
+      "description": "Hairline-topped quote: stars, text, bold non-italic name, muted source. No box.",
+      "html": "<figure class=\"ds-quote\"><span class=\"ds-quote-stars\" role=\"img\" aria-label=\"5 de 5 estrelas\">&#9733;&#9733;&#9733;&#9733;&#9733;</span><blockquote><p>Tinha muito medo de dentista e fui tratada com calma e carinho do início ao fim.</p></blockquote><figcaption><cite>Nome do paciente</cite><span class=\"ds-quote-src\">Avaliação no Google</span></figcaption></figure>",
+      "css": ".ds-quote{font-family:'Hanken Grotesk',system-ui,sans-serif;margin:0;border-top:1px solid #d3ddd6;padding-top:1.5rem;display:grid;gap:.9rem;max-width:34rem;color:#102219}.ds-quote-stars{color:#8f6f1b;letter-spacing:2px}.ds-quote blockquote{margin:0}.ds-quote p{margin:0;font-size:1.125rem;line-height:1.6;text-wrap:pretty}.ds-quote cite{display:block;font-style:normal;font-weight:600}.ds-quote-src{font-size:.9375rem;color:#41564a}"
+    },
+    {
+      "name": "Booking Step",
+      "kind": "custom",
+      "refersTo": "step-node",
+      "description": "Forest circle holding a gold line icon, a title and one short muted sentence.",
+      "html": "<div class=\"ds-step\"><span class=\"ds-step-node\"><svg viewBox=\"0 0 256 256\" width=\"26\" height=\"26\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M208 32h-24v-8a8 8 0 0 0-16 0v8H88v-8a8 8 0 0 0-16 0v8H48a16 16 0 0 0-16 16v160a16 16 0 0 0 16 16h160a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16Zm0 176H48V96h160Zm-34.3-82.3a8 8 0 0 1 0 11.3l-48 48a8 8 0 0 1-11.4 0l-24-24a8 8 0 0 1 11.4-11.3L120 168.7l42.3-43a8 8 0 0 1 11.4 0Z\"/></svg></span><div><h3 class=\"ds-step-title\">Comece o tratamento</h3><p class=\"ds-step-text\">Com o plano definido, você inicia o cuidado com acompanhamento da equipe.</p></div></div>",
+      "css": ".ds-step{font-family:'Hanken Grotesk',system-ui,sans-serif;display:grid;grid-template-columns:56px 1fr;gap:1.25rem;align-items:start;color:#102219;max-width:26rem}.ds-step-node{display:grid;place-items:center;width:56px;height:56px;border-radius:999px;background:#1e3a2f;color:#c9a84c}.ds-step-title{font-family:'Bricolage Grotesque',sans-serif;font-size:1.3125rem;line-height:1.25;font-weight:600;letter-spacing:-.01em;margin:0}.ds-step-text{color:#41564a;margin:.35rem 0 0;max-width:36ch;line-height:1.65}"
+    },
+    {
+      "name": "Floating WhatsApp Button",
+      "kind": "button",
+      "refersTo": "wa-float",
+      "description": "Mobile-only 60px gold circle, bottom-right, hidden from 1024px up.",
+      "html": "<a class=\"ds-wa\" href=\"#\" aria-label=\"Agendar avaliação pelo WhatsApp\"><svg viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"currentColor\" aria-hidden=\"true\"><path d=\"M128 24a104 104 0 0 0-89.6 156.8L24 232l52.5-13.8A104 104 0 1 0 128 24Z\"/></svg></a>",
+      "css": ".ds-wa{display:inline-grid;place-items:center;width:60px;height:60px;border-radius:999px;background:#c9a84c;color:#142a21;text-decoration:none;box-shadow:inset 0 0 0 1px rgb(20 42 33 / .25),0 14px 28px -10px rgb(0 0 0 / .55);transition:transform .3s cubic-bezier(.16,1,.3,1),background-color .2s}.ds-wa:hover{background:#d8bc68;transform:translateY(-2px)}.ds-wa:active{transform:scale(.95)}.ds-wa:focus-visible{outline:3px solid #fff;outline-offset:0;box-shadow:0 0 0 6px #142a21}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Verified Front Door",
+    "overview": "A visitor who is nervous about the dentist should be able to check, within one scroll, that this clinic is real and kind: the actual storefront with its street number, the 5,0 rating from 391 Google reviews, the clinic's own before/after photos, patients describing fear turning into trust. The design carries that thesis by staying out of the way of the evidence. Forest-green bars hold the real logo (a light logo that needs a dark green ground), a pale cool-green paper holds the content, and a single warm gold marks the one action on the page: schedule an evaluation on WhatsApp.\n\nThe mood is calm, local and grown-up rather than clinical. Type is large and friendly-tight (Bricolage Grotesque headlines, Hanken Grotesk text), shapes are soft (16px on every image and surface, pill buttons), and the page is nearly flat: depth comes from tonal bands (paper, white, sage, forest) and one soft shadow under photographs. Dark mode follows the visitor's system and swaps the paper for a green-black while keeping the same gold.\n\nThe world is recognizable with no content: a forest-green logo bar, a gold pill, a wide storefront photo held inside the page margins with rounded corners. The system rejects the dental-landing default (teal and white, stock smiles, three icon cards in a row); it is not an icon-card page, and photographs are always the clinic's own.",
+    "keyCharacteristics": [
+      "Two brand colors only: forest green (structure, bars, headings of authority) and gold (action, stars on dark, small signals).",
+      "Green-tinted neutrals; no pure grey, no pure black on the light theme.",
+      "Pill buttons, 16px surfaces and images, hairline rules instead of boxes.",
+      "Nearly flat: tonal bands for sectioning, one soft shadow on photos and map, a lifted shadow only on the gold button.",
+      "Real evidence first: photo, rating, results, quotes, address, map.",
+      "One orchestrated entrance on the hero, calm scroll reveals elsewhere, all gated by reduced-motion."
+    ],
+    "rules": [
+      {
+        "name": "The One Gold Rule",
+        "body": "Gold is the call to action and nothing else decorative. Filled gold means \"schedule on WhatsApp\"; the label is the same (\"Agendar avaliação\") everywhere. Gold may also appear as a small supporting mark (link underline, nav underline, icons on green, selection), never as a section background or a second button color.",
+        "section": "colors"
+      },
+      {
+        "name": "The Logo Ground Rule",
+        "body": "The light logo only ever sits on Forest Bar. Anything that holds the logo, or closes the page (header, closing block, footer), uses the forest bands; content bands use paper, surface or sage.",
+        "section": "colors"
+      },
+      {
+        "name": "The Tinted Neutral Rule",
+        "body": "Every neutral leans green (hue about 146 to 167). No #000, no #fff text, no cool grey.",
+        "section": "colors"
+      },
+      {
+        "name": "The Sentence Case Rule",
+        "body": "Labels, buttons and headings are written as normal sentences. Hierarchy comes from size, weight and the display face, not from uppercase, letterspacing or small tracked captions above headings.",
+        "section": "typography"
+      },
+      {
+        "name": "The Short Measure Rule",
+        "body": "Prose never runs wider than about 38ch (lead), 44ch (descriptions) or 56 to 60ch (supporting text). Headlines and quotes use `text-wrap: balance`, paragraphs use `pretty`.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Until Raised Rule",
+        "body": "Surfaces are flat at rest. Shadows belong to photographs, the gold button, the stuck header and the floating button; text containers, quotes and list rows never get a shadow or a box.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** use Forest Bar (#1e3a2f) for anything that holds the logo or closes the page, and keep the light logo on it unchanged.",
+      "**Do** keep gold (#c9a84c) to the schedule action and small supporting marks, with On Gold (#142a21) text on it; keep the label \"Agendar avaliação\" identical on every gold button.",
+      "**Do** use 16px radius on every image and surface, and full pills (999px) on every button and icon button.",
+      "**Do** keep controls at 48px (large 54px) and any tap target at 44px or more.",
+      "**Do** put photographs and the rating first; rely on the clinic's own images, keep the hero photo inside the page margins, and keep the 16/9 crop.",
+      "**Do** tint neutrals toward green and flip them with `prefers-color-scheme: dark` by editing only the tokens in `:root`.",
+      "**Do** gate decorative motion behind `prefers-reduced-motion: no-preference` and use the single ease-out curve.",
+      "**Do** use `text-wrap: balance` on headings and quotes and keep prose under about 60ch."
+    ],
+    "donts": [
+      "**Don't** fall back to the dental-landing default: teal and white, stock smiles, a row of three icon cards.",
+      "**Don't** introduce a second accent color, gradients, or gold as a section background.",
+      "**Don't** wrap content in bordered, shadowed cards; use hairlines, tonal bands and whitespace.",
+      "**Don't** use uppercase, tracked captions or \"eyebrow\" labels above headings; the system does not have them.",
+      "**Don't** use stock or generated photographs, redraw or recolor the logo, or invent facts, prices or offers.",
+      "**Don't** put the light logo on a light ground, or put body text in pure black or pure white.",
+      "**Don't** animate layout properties or add motion that runs without the reduced-motion gate."
+    ]
+  }
+}
